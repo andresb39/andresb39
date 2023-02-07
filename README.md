@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <a href="https://app.daily.dev/andresb39"><img src="https://api.daily.dev/devcards/7ec74c449c084346b26445c55167f02e.png?r=ls9" width="200" alt="J. Andrés Bergaño G.'s Dev Card"/></a>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andresb39">
