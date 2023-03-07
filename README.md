@@ -11,7 +11,6 @@
   </a>
 </div>
 
----
 
 
 ### :man_technologist: About Me :
@@ -21,8 +20,6 @@ I am a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
 - :telescope: I'm working as a DevOps Sr Lead, contributing to the automation of infrastructure creation processes and CI/CD pipelines using the best security standards.
 - :zap: In my free time, I read technology articles 📖, spend time with my family 👨‍👩‍👧, play soccer ⚽ and video games 🎮.
 
-
----
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -35,15 +32,13 @@ I am a DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andresb39&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresb39&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+    <img alt="Anurag&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=andresb39&amp;show_icons=true&amp;theme=nord"/>&nbsp;
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresb39&amp;layout=compact"/>
+</div>
 
 <!--
 **andresb39/andresb39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
